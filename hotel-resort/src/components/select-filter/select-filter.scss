@@ -1,0 +1,13 @@
+@import "../../styles.scss";
+
+select {
+  margin: 30px 10px 0px 10px;
+  border-radius: 30px;
+  border: 1px solid $red;
+  padding: 6px 15px;
+  outline: none;
+  cursor: pointer;
+  font-size: 12px;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+}
